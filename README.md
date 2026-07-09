@@ -37,7 +37,8 @@ CloudExify-Project-1/
 │── Sales_Data_Analysis.ipynb
 │── README.md
 │── screenshots/
-
+```
+##Screenshots
 <img width="452" height="290" alt="Screenshot 2026-07-09 152814" src="https://github.com/user-attachments/assets/ef8420ad-a018-4d77-8c5d-4527197b2672" />
 <img width="455" height="287" alt="Screenshot 2026-07-09 152717" src="https://github.com/user-attachments/assets/895380f0-f774-42b8-99d1-f9e28e48c6fb" />
 <img width="551" height="375" alt="Screenshot 2026-07-09 152643" src="https://github.com/user-attachments/assets/9c6eb560-e522-470a-a89d-e2621ffc72c1" />
